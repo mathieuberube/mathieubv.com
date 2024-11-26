@@ -1,8 +1,15 @@
 body {
     background-color: #74C29F;
-    color: #2e101c;
+    color: #4E1D34;
     font-family: Inter  ;
     font-size: 16px;
-    font-weight: 600;
+    font-weight: 500;
     max-width: 80ch;
+}
+
+a:link {
+  color: #005C8A;
+}
+a:visited {
+  color: #005C8A;
 }
